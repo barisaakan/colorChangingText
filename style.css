@@ -1,0 +1,30 @@
+.bg1{
+    background-color: white;
+    height: 150vh;
+    width: 100vw;
+}
+
+.bg2{
+    background-color: black;
+    height: 150vh;
+    width: 100vw;
+}
+
+b{
+    color: white; 
+    mix-blend-mode: difference;
+    font-size: 150px;
+    position: sticky;
+    top: calc(50vh - 87px);
+    left: calc(50vw - 171px);
+}
+
+span{
+    color: white; 
+    mix-blend-mode: difference;
+    font-size: 50px;
+    position: sticky;
+    top: calc(50vh + 80px);
+    left: calc(50vw - 298px);
+}
+
